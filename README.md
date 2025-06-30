@@ -1,18 +1,16 @@
 # 🚀 PROYECTO FINAL - PHYSICS X MATH 2.0 🧮
 
-[![IPN](https://img.shields.io/badge/IPN-E4405F?style=flat-square&logo=politecnico&logoColor=white)](https://www.ipn.mx/)
+[![Instituto Politécnico Nacional](https://img.shields.io/badge/IPN-E4405F?style=flat-square&logo=politecnico&logoColor=white)](https://www.ipn.mx/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Banner del Proyecto](https://via.placeholder.com/800x200?text=PHYSICS+X+MATH+2.0+-+ESIME+Culhuacán)
-
-## 📌 Información del Proyecto
+## 📌 Descripción
 **Escuela:** Instituto Politécnico Nacional (IPN)  
 **Carrera:** Ingeniería Mecánica  
 **Materia:** Fundamentos de Programación  
 **Fecha de Finalización:** 13 de Junio de 2021  
 
-### 👥 Integrantes del Equipo:
+### 👥 Desarrolladores
 1. VLJM
 2. VGE
 3. VPI
@@ -21,8 +19,8 @@
 
 ---
 
-## 📝 Descripción
-**PHYSICS X MATH 2.0** es un programa en C++ diseñado como proyecto final para la unidad II de la materia *Fundamentos de Programación*. El software integra herramientas de cálculo matemático y conversiones físicas en una interfaz de menú interactiva, dirigido a estudiantes de ingeniería y ciencias.
+## 📝 Información
+**PHYSICS X MATH 2.0** es un programa en C++ que desarrolle con mi equipo de clase cuando era parte del **Instituto Politécnico Nacional** como proyecto final de la materia *Fundamentos de Programación*. El software integra herramientas de cálculo matemático y conversiones físicas en una interfaz de menú interactiva, dirigido a estudiantes de ingeniería y ciencias.
 
 ### 🔍 Funcionalidades Principales:
 1. **Calculadora Simple:** Operaciones básicas (suma, resta, multiplicación, división, potencias, raíces).  
@@ -45,7 +43,7 @@
 ### Pasos:
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/physics-x-math.git
+   git clone https://github.com/tu-usuario/jesusvasquezjr3/PHYSICS-X-MATH-2.0.git
    ```
 2. Compila el código:
    ```bash
@@ -69,11 +67,12 @@
 
 ---
 
-## 📊 Contribuciones
-Este proyecto fue desarrollado como parte del currículo académico del IPN. Si deseas contribuir (ej: optimizar código, agregar funciones), sigue estos pasos:
-1. Haz un fork del repositorio.  
-2. Crea una rama con tu feature (`git checkout -b feature/nueva-funcion`).  
-3. Envía un Pull Request.  
+## 📊 Capturas
+
+![Portada](images/PROYECTO FINAL_page-0001.jpg)
+![Análisis](images/PROYECTO FINAL_page-0001.jpg)
+![Diseño](images/PROYECTO FINAL_page-0001.jpg)
+![Funcionamiento](images/PROYECTO FINAL_page-0001.jpg)
 
 ---
 
