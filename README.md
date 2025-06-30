@@ -69,10 +69,17 @@
 
 ## 📊 Capturas
 
-![Portada](images/PROYECTO FINAL_page-0001.jpg)
-![Análisis](images/PROYECTO FINAL_page-0001.jpg)
-![Diseño](images/PROYECTO FINAL_page-0001.jpg)
-![Funcionamiento](images/PROYECTO FINAL_page-0001.jpg)
+![Página 1](images/PROYECTO_FINAL_page-0001.jpg)
+*Figura 1: Portada del proyecto*
+
+![Página 2](images/PROYECTO_FINAL_page-0002.jpg)
+*Figura 2: Análisis*
+
+![Página 3](images/PROYECTO_FINAL_page-0003.jpg)
+*Figura 3: Diseño*
+
+![Página 21](images/PROYECTO_FINAL_page-0021.jpg)
+*Figura 4: Funcionamiento*
 
 ---
 
