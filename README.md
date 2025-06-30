@@ -70,7 +70,7 @@
 ## 📊 Capturas
 
 ![Funcionamiento](images/PROYECTO_FINAL_page-0021.jpg)
-*Figura 4: Funcionamiento*
+*Figura 1: Funcionamiento*
 
 ---
 
